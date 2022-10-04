@@ -1,0 +1,11 @@
+clone
+status
+log
+reset
+pull
+push
+commit
+add
+remote set
+checkout
+checkout -b
